@@ -1,0 +1,22 @@
+.mainContainer {
+  max-width: 1400px;
+  margin: 0px auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginWrapper {
+  height: fit-content;
+  padding: 100px;
+  box-sizing: border-box;
+  width: fit-content;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+}

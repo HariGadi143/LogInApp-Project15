@@ -1,0 +1,9 @@
+.btnCon {
+  padding: 10px 20px;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
